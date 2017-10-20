@@ -1,5 +1,6 @@
 initialization
 buildMenu
 	self addTitle: 'World Menu'.
-	self add: 'industry' selector: #printMessage.
-	self add: 'Comercial' selector: #printMessage
+	self add: 'Comercial' selector: #toComercial.
+	self add: 'Housing' selector: #toHousing.
+	self add: 'Industrial' selector: #toIndustrial.
