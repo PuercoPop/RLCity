@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"mouseAction"
+		"mouseAction",
+		"location"
 	],
 	"name" : "RLCell",
 	"type" : "normal"
