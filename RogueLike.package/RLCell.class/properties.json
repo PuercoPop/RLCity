@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JavierOlachea 10/20/2017 12:06",
+	"super" : "BorderedMorph",
+	"category" : "RogueLike",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mouseAction"
+	],
+	"name" : "RLCell",
+	"type" : "normal"
+}

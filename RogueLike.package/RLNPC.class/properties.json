@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "JavierOlachea 10/20/2017 11:30",
+	"super" : "Object",
+	"category" : "RogueLike",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RLNPC",
+	"type" : "normal"
+}
