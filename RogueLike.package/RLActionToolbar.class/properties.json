@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JavierOlaechea 10/20/2017 23:17",
+	"super" : "Morph",
+	"category" : "RogueLike",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lastIconPosition"
+	],
+	"name" : "RLActionToolbar",
+	"type" : "normal"
+}
