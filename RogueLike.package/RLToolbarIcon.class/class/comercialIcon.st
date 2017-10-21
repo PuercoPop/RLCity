@@ -1,3 +1,3 @@
 construction
-ComercialIcon
+comercialIcon
 	^ self newIconWithLabel: (self buildLabel: 'C' withColor: Color blue)
