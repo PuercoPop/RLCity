@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "JavierOlaechea 10/21/2017 12:44",
+	"super" : "StandardWindow",
+	"category" : "RogueLike",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RLMainWindow",
+	"type" : "normal"
+}
