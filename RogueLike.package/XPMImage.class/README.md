@@ -1,4 +1,5 @@
 I am an XPM Image.
+I can turn into a Morph.
 
 self readFile: <path/to/Image.xpm>
 
