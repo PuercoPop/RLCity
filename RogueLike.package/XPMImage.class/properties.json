@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "JavierOlaechea 10/22/2017 02:15",
+	"super" : "Object",
+	"category" : "RogueLike",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"width",
+		"height",
+		"ncolors",
+		"charsPerPixel",
+		"colorMap",
+		"pixels"
+	],
+	"name" : "XPMImage",
+	"type" : "normal"
+}
