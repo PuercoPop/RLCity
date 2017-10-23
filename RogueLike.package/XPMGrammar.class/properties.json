@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "PPCompositeParser",
+	"category" : "RogueLike-XPM",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"header"
+	],
+	"name" : "XPMGrammar",
+	"type" : "normal"
+}
