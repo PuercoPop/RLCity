@@ -3,10 +3,9 @@ I am a recusive Descent Parser for XPM  files
 modeled after RBPaser/RBScanner
 
 API:
-	next: Advaces the currentChar
+	step – Advaces the currentChar
 	peek
 	lookingAt <Character>
-	
-Note : Use lookingAt: #eof to detect the end of file (XXX: Come up with a better approach?)
+	atEnd – Are we at th end of the file?
 
   
