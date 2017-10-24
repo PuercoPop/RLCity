@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "JavierOlachea 10/23/2017 18:36",
+	"super" : "Object",
+	"category" : "RogueLike-XPM",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"currentToken",
+		"nextToken",
+		"stream"
+	],
+	"name" : "XPMParser",
+	"type" : "normal"
+}

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "RogueLike-XPM-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"currentToken",
+		"nextToken",
+		"testFile",
+		"parser"
+	],
+	"name" : "XPMParserTest",
+	"type" : "normal"
+}
