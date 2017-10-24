@@ -1,4 +1,5 @@
 initialization
 setUp
-	testFile := FileLocator home / '.emacs.d/init.el'.
-	parser := XPMParser on: testFile.
+	self ensureTestFile .
+	testFile := self testFilePath.
+	parser := XPMParser on: testFile

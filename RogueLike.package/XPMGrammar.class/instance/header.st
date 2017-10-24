@@ -1,3 +1,0 @@
-accessing
-header
-	^ '/* XPM */' asParser
