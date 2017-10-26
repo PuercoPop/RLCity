@@ -1,3 +1,3 @@
 tests
 testIcon
-	self new buildIcon
+	^ self new buildIcon

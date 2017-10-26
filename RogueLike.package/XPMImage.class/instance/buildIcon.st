@@ -4,6 +4,7 @@ buildIcon
 	height := 48.
 	charsPerPixel := 1.
 	colorMap := Dictionary new.
+	colorMap add: $` -> (Color fromHexString: '000000').
 	colorMap add: $a -> (Color fromHexString: '7F7F7F').
 	colorMap add: $b -> (Color fromHexString: '0000E6').
 	colorMap add: $c -> (Color fromHexString: '3F3F3F').
