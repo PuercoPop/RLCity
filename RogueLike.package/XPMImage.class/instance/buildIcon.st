@@ -14,6 +14,7 @@ buildIcon
 	colorMap add: $g -> (Color fromHexString: '00E600').
 	colorMap add: $h -> (Color fromHexString: 'FFFFFF').
 	colorMap add: $i -> (Color fromHexString: 'FFFF00').
+	colorMap add: $j -> (Color fromHexString: 'BFBFBF')..
 	pixels := '`eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 `e`````````````````````````````````````````````e
 `egggggggggggggggggggggcggcggggggggggggggggggg`e
