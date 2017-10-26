@@ -10,8 +10,8 @@ drawOn: aCanvas
 			x := 0.
 			line
 				do: [ :char | 
-					origin := self bounds origin + (x @ y).
-					rectangle := origin corner: origin + (1 @ 1).
+					origin := self bounds origin + ((x * charsPerPixel ) @ (y * charsPerPixel )).
+					rectangle := origin corner: origin + (charsPerPixel  @ charsPerPixel ).
 					aCanvas fillRectangle: rectangle color: (colorMap at: char).
 					x := x + 1 ].
 			y := y + 1 ]
