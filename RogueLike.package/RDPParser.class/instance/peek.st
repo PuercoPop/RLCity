@@ -1,3 +1,3 @@
 parsing
 peek
-	^ self stream peek
+	^ stream peek
