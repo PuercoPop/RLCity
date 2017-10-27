@@ -1,0 +1,1 @@
+I represent a color entry in an XPM file.

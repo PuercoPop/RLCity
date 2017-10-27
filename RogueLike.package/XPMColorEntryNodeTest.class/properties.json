@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "RogueLike-XPM-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"firstObject",
+		"secondObject",
+		"thirdObject",
+		"fourthObject"
+	],
+	"name" : "XPMColorEntryNodeTest",
+	"type" : "normal"
+}
