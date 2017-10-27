@@ -1,3 +1,3 @@
 parsing
 eat: aChar
-	^ self stream next = aChar
+	^ stream next = aChar
