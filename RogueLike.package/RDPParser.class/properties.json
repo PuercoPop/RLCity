@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JavierOlachea 10/26/2017 19:34",
+	"super" : "Object",
+	"category" : "RogueLike-XPM",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stream"
+	],
+	"name" : "RDPParser",
+	"type" : "normal"
+}
