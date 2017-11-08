@@ -5,4 +5,5 @@ parse
 	self eat: Character space.
 	self eat: $c.
 	self eat: Character space.
-	self parseColor
+	self parseColor.
+	^ node
