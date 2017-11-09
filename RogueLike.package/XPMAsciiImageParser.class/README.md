@@ -1,0 +1,1 @@
+I parse the image made up of ascii chars.

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "JavierOlaechea 11/9/2017 02:59",
+	"super" : "RDPParser",
+	"category" : "RogueLike-XPM",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"colormap",
+		"pixels"
+	],
+	"name" : "XPMAsciiImageParser",
+	"type" : "normal"
+}
