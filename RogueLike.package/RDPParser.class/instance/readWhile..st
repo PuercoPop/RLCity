@@ -1,6 +1,6 @@
 parsing
-readWhile: aChar
+readWhile: aBlock
 	| ret |
 	ret := String new.
-	[ self peek = aChar ] whileTrue: [ ret := ret , self next asString ].
+	[ aBlock value: (self peek) ] whileTrue: [ ret := ret , self next asString ].
 	^ ret
