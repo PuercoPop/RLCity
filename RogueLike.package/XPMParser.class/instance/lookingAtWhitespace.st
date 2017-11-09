@@ -1,3 +1,3 @@
 parsing
 lookingAtWhitespace
-	^ (self lookingAt: Character Space) or: [ self lookingAt: Character cr ]
+	^ self lookingAt: [:char | (self class whitespaceChars) includes: char  ]
